@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    
+    background-image: url(images/black_jack.jpg);
+    background-size: cover;
+
+   background-color: #016f32;
+    
+    font-weight: bold;
+    color:white;
+    /* padding: 20px 0; */
+    font-family:'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+h1{
+    color:goldenrod;
+    font-size:42px ;
+}
+#message-el{
+    
+    font-size: 25px;
+    font-style: italic;
+   
+    
+
+}
+p{
+    font-size: 20px;
+}
+
+button{
+    background-color:goldenrod;
+    color:#016f32;
+    padding: 7px 0px;
+    width: 150px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 4px;
+    
+
+}
+.container{
+    background-color: rgb(18, 93, 25);
+    margin: auto;
+    max-width: 50%;
+    border: 1px solid blanchedalmond;
+    border-radius: 10px;
+
+}
